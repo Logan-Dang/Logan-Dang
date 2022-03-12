@@ -7,7 +7,7 @@ Right now, I'm focused on learning how to build desktop apps. Right now I'm work
 ## I’m looking to collaborate on...
 Everything! I want to really explore what's out there in the software engineering world and push my skills. Please feel free to invite me to collaborate with you on pretty much anything.
 ### How to reach me...
-Email: logandang100@yahoo.com
+Email: logandang100@yahoo.com  
 LinkedIn: https://www.linkedin.com/in/logandang/
 
 <!---
